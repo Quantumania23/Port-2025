@@ -146,7 +146,8 @@ export default function RootLayout({
         <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
         <meta name="googlebot" content="index, follow" />
           <meta name="google-site-verification" content="lu2o8adyYEKEbj491hVUrs86jLt80NwqEKikVRAz8TA" />
-
+          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2499617146577250"
+     crossOrigin="anonymous"></script>
         
         {/* Geographic targeting */}
         <meta name="geo.region" content="KE" />
